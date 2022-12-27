@@ -1,0 +1,1 @@
+- Suse Studio Image Writer -> criar pendrive botavel
