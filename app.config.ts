@@ -7,11 +7,8 @@ export default defineAppConfig({
       twitter: 'rwietter',
       github: 'rwietter',
     },
-    aside: {
-      level: 0,
-    },
     header: {
-      logo: true,
+      logo: false,
       title:'Maurício Witter',
       showLinkIcon: true,
       exclude: []
