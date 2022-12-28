@@ -1,18 +1,21 @@
-### Tipos de Investimentos
+---
+title: Investimentos
+icon: mdi:code-json
+---
 
-- [[Fundos Imobiliários]]
+# Tipos de Investimentos
 
 ---
 
-#### Taxas
+## Taxas
 
 ---
 
-#### Tools
+## Tools
 [Status Invest](https://statusinvest.com.br/)
 
 ---
 
-#### Corretoras
+## Corretoras
 [Clear](https://corretora.clear.com.br/)
 
