@@ -1,6 +1,6 @@
 ---
 title: Grafos
-icon: mdi:code-json
+icon: vscode-icons:file-type-codekit
 ---
 
 # Grafos

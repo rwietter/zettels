@@ -1,6 +1,6 @@
 ---
 title: Investimentos
-icon: mdi:code-json
+icon: vscode-icons:file-type-codekit
 ---
 
 # Tipos de Investimentos

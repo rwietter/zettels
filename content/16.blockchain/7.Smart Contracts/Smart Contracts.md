@@ -1,6 +1,6 @@
 ---
 title: Smart Contracts
-icon: mdi:code-json
+icon: vscode-icons:file-type-codekit
 ---
 
 # Smart Contracts

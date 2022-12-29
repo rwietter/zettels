@@ -1,6 +1,6 @@
 ---
 title: Séries Temporais
-icon: mdi:code-json
+icon: vscode-icons:file-type-codekit
 ---
 
 # Séries Temporais

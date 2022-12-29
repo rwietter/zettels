@@ -1,6 +1,6 @@
 ---
 title: NFTs
-icon: mdi:code-json
+icon: vscode-icons:file-type-codekit
 ---
 
 # NFTs

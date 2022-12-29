@@ -1,6 +1,6 @@
 ---
 title: Mercado
-icon: mdi:code-json
+icon: vscode-icons:file-type-codekit
 ---
 
 # Ciclos do Mercado (pontos de compra)

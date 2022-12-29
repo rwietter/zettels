@@ -1,6 +1,6 @@
 ---
 title: DAOs
-icon: mdi:code-json
+icon: vscode-icons:file-type-codekit
 ---
 
 # Organizações decentralizadas
