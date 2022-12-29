@@ -9,9 +9,16 @@ export default defineAppConfig({
     },
     header: {
       logo: false,
-      title:'Maurício Witter',
+      title:'rwietter',
       showLinkIcon: true,
       exclude: []
+    },
+    aside: {
+      collapsed: true
+    },
+    github: {
+      edit: true,
+      contributors: true,
     },
     footer: {
       iconLinks: [
@@ -19,7 +26,12 @@ export default defineAppConfig({
           href: 'https://te.me/rwietter',
           icon: 'ic:baseline-telegram'
         }
-      ]
+      ],
+      credits: {
+        icon: 'IconDocus',
+        text: 'Made with ❤️ by Maurício Witter',
+        href: 'https://rwietter.xyz/',
+      },
     }
   }
 })
