@@ -33,5 +33,5 @@ export default defineAppConfig({
         href: 'https://rwietter.xyz/',
       },
     }
-  }
+  },
 })
