@@ -1,6 +1,6 @@
 ---
 title: Questões
-icon: vscode-icons:file-type-codekit
+icon: emojione:exclamation-question-mark
 ---
 
 ## Órgãos Administrativos
@@ -15,6 +15,8 @@ icon: vscode-icons:file-type-codekit
 - As carecterísticas do veículo podem ser alteradas mediante permissão da autoridade de trânsito.
 - Caminhão-trator é um veículo destinado a puxar reboques.
 - Caso o veículo tenha débitos de multas de trânsito, o proprietário não poderá renovar o Licenciamento Anual do Veículo (LAV).
+- Decorridos 02 (dois) anos da cassação do documento de habilitação, o infrator poderá requerer a sua reabilitação, submetendo-se a todos os exames.
+- “Art. 261. A penalidade de suspensão do direito de dirigir será imposta nos seguintes caso: I – sempre que o infrator atingir a contagem de 20 (vinte) pontos, no período de 12 (doze) meses, conforme a pontuação prevista no art. 259; II – por transgressão às normas estabelecidas neste Código, cujas infrações preveem, de forma específica, a penalidade de suspensão do direito de dirigir.”
 - Ciclomotor é um veículo automotor de duas a três rodas que tem a capacidade máxima de atingir 50km/h.
 - Carroça é um veículo de tração animal para transporte de objetos e cargas.
 - Charrete é um veículo de tração animal para transporte de pessoas.
@@ -23,3 +25,4 @@ icon: vscode-icons:file-type-codekit
 - CRLV é o documento expedido anualmente para indicar que o carro está apto a circular pelas ruas brasileiras. O CRV, por sua vez, é emitido para garantir que o veículo foi registrado junto aos órgãos de trânsito.
 - Espécie de veículos são: de passageiros, de carga, misto, de competição, de tração, especial e de coleção
 - Para transportar cargas perigosas, o condutor deve realizar o Curso Especializado de Transporte de Produtos Perigosos (TTP).
+- O Detran é o órgão emissor da Carteira Nacional de Habilitação (CNH). Mas, o registro da CNH é feito no Departamento Nacional de Trânsito (DENATRAN || SENATRAN).
