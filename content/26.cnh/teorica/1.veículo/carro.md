@@ -14,3 +14,10 @@ As placas de identificação dos veículos são compostas por 3 partes:
 Cores das placas do MercoSul
 
 <img src="https://uploaddeimagens.com.br/images/004/286/058/original/mercosul.jpg?1672963222" width="50%">
+
+---
+
+Tacômetro.
+Odômetro.
+Alternador.
+Dínamo
