@@ -3,14 +3,14 @@ title: Questões
 icon: emojione:exclamation-question-mark
 ---
 
-## Órgãos Administrativos
+# Questões
 
 - A Junta Administrativa de Recursos de Infrações (JARI) é um órgão colegiado componente do Sistema Nacional de Trânsito (SNT).
 - Ao Departamento Estadual de Trânsito (DETRAN) cabe, entre outras, a atribuição de vistoriar, registrar, emplacar veículos, mediante a delegação do órgão máximo normativo do executivo da União.
 - Autorização para conduzir veículos de propulsão humana e tração animal fica a cargo dos municípios.
 - A Licença de Aprendizagem de Direção Veicular (LADV) será expedida pelo DETRAN ao candidato que tenha sido  aprovado nos exames de aptidão física, mental, psicológica e de legislação de trânsito.
 - O usuário permissionário que teve a Permissão para Dirigir (PPD) cassada, poderá reiniciar o processo de obtenção da CNH a qualquer momento, já o usuário que teve a CNH cassada, deverá aguardar 2 anos para reiniciar o processo de obtenção da CNH.
-- Veículos escolares precisam de Registro para Veículo de Passageiros. Também precisam, para circular nas vias, a inspeção semestral para verificação dos equipamentos obrigatórios e de segurança;
+- [Veículos escolares precisam de Registro para Veículo de Passageiros. Também precisam, para circular nas vias, a inspeção semestral para verificação dos equipamentos obrigatórios e de segurança](https://www.ctbdigital.com.br/artigo/art136);
 - Seguro DPVAT é obrigatório para todos os veículos automotores.
 - As carecterísticas do veículo podem ser alteradas mediante permissão da autoridade de trânsito.
 - Caminhão-trator é um veículo destinado a puxar reboques.
