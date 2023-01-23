@@ -17,6 +17,14 @@ Cores das placas do MercoSul
 
 ---
 
+## Câmbio
+
+## Sistema de Arrefecimento
+
+Tanto o cabeçote como o bloco do motor contém uma série de dutos denominados câmaras de água nos quais circula a água de arrefecimento.
+
+---
+
 Tacômetro.
 Odômetro.
 Alternador.
