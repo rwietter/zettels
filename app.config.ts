@@ -16,6 +16,10 @@ export default defineAppConfig({
     aside: {
       collapsed: true
     },
+    main: {
+      fluid: false,
+      padded: true
+    },
     footer: {
       iconLinks: [
         {
