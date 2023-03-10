@@ -4,7 +4,7 @@
   "private": false,
   "packageManager": "pnpm@7.26.3",
   "engines": {
-    "node": ">=19.6.0"
+    "node": ">=18.x"
   },
   "scripts": {
     "dev": "nuxi dev",
