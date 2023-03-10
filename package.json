@@ -1,12 +1,16 @@
 {
-  "name": "docus-starter",
+  "name": "rwietter-zettelkasten",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "packageManager": "pnpm@7.26.3",
+  "engines": {
+    "node": ">=19.6.0"
+  },
   "scripts": {
     "dev": "nuxi dev",
-    "build": "nuxi generate",
+    "build": "nuxi build",
     "start": "nuxi start",
-    "generate": "nuxi build",
+    "generate": "nuxi generate",
     "preview": "nuxi preview",
     "lint": "eslint ."
   },
