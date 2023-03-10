@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
-    "build": "nuxi build",
-    "generate": "nuxi generate",
+    "build": "nuxi generate",
+    "start": "nuxi start",
+    "generate": "nuxi build",
     "preview": "nuxi preview",
     "lint": "eslint ."
   },
